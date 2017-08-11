@@ -1,0 +1,31 @@
+{
+  "name": "express-mvc-skeleton",
+  "version": "0.0.1",
+  "description": "Skeleton for MVC pattern node JS project in express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sazack <sajak1994@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.15.4",
+    "formidable": "^1.1.1",
+    "google-caja": "0.0.2",
+    "grunt": "^1.0.1",
+    "http": "0.0.0",
+    "mongoose": "^4.11.6",
+    "nicemail": "^1.0.4",
+    "util": "^0.10.3"
+  },
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-env": "^0.4.4",
+    "grunt-mocha-test": "^0.13.2",
+    "mocha": "^3.5.0"
+  }
+}
